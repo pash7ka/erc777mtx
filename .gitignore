@@ -1,0 +1,14 @@
+# Dependency directories
+node_modules/
+
+# Compiled contracts
+build/
+
+#logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv environment variables file
+.env

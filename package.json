@@ -1,0 +1,12 @@
+{
+  "name": "erc777mtx",
+  "version": "1.0.0",
+  "description": "Sample ERC777 token which implements GSN-style MetaTransactions via ERC712 signatures",
+  "main": "index.js",
+  "repository": "https://github.com/pash7ka/erc777mtx.git",
+  "author": "Pavel Rubin <pash7ka@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.4.0"
+  }
+}
